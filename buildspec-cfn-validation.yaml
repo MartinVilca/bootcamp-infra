@@ -7,5 +7,5 @@ phases:
 
 artifacts:
   files:
-    - talleres/09/mythicalmysfits-infra.yaml
+    - mythicalmysfits-infra.yaml
   discard-paths: yes
