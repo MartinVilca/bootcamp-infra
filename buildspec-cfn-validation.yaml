@@ -3,7 +3,7 @@ version: 0.2
 phases:
   build:
     commands:
-      - aws cloudformation validate-template --template-body file://talleres/09/mythicalmysfits-infra.yaml
+      - aws cloudformation validate-template --template-body file://mythicalmysfits-infra.yaml
 
 artifacts:
   files:
